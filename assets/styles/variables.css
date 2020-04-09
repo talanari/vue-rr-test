@@ -1,0 +1,15 @@
+:root {
+  --color-alto: #E0E0E0;
+  --color-asparagus: #749D55;
+  --color-azure: #315D96;
+  --color-black: #000;
+  --color-danube: #6091D1;
+  --color-danube20: #6091D133;
+  --color-danube40: #6091D166;
+  --color-gallery: #EAEAEA;
+  --color-white: #FFF;
+  --color-wildsand: #F6F6F6;
+  --primary-color: var(--color-danube);
+  --secondary-color: var(--color-danube40);
+  --tertiary-color: var(--color-danube20);
+}
